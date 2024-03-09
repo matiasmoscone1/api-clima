@@ -9,7 +9,8 @@
 
 /* Contenedor principal */
 .main-container{
-    background-image: url("./assets/wallpaper1.png");
+    /*background-image: url("./assets/wallpaper1.png");*/
+    background-image: url("./assets/prueba-img.png");
     background-repeat:no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -340,7 +341,9 @@
 @media screen and (min-width: 768px){
     /* Contenedor principal */
     .main-container{
-        background-image: url("./assets/wallpaper1.png");
+        /*background-image: url("./assets/wallpaper1.png");*/
+        background-image: url("./assets/prueba-img.png");
+        
         background-repeat:no-repeat;
         background-size: cover;
         background-attachment: fixed;
